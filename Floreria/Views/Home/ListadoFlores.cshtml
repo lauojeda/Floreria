@@ -1,0 +1,36 @@
+﻿@model Floreria.Models.Flor
+
+@{
+    ViewData["Title"] = "ListadoFlores";
+}
+
+<h2>ListadoFlores</h2>
+
+<div>
+    <h4>Flor</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Codigo)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Codigo)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Origen)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Origen)
+        </dd>
+    </dl>
+</div>
+<div>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    <a asp-action="Index">Back to List</a>
+</div>
