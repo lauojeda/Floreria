@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lojeda\\Documents\\GitHub\\urbeacademy\\Floreria\\Floreria.csproj": {}
+    "C:\\Users\\lojeda\\Documents\\GitHub\\Floreria\\Floreria\\Floreria.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lojeda\\Documents\\GitHub\\urbeacademy\\Floreria\\Floreria.csproj": {
+    "C:\\Users\\lojeda\\Documents\\GitHub\\Floreria\\Floreria\\Floreria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lojeda\\Documents\\GitHub\\urbeacademy\\Floreria\\Floreria.csproj",
+        "projectUniqueName": "C:\\Users\\lojeda\\Documents\\GitHub\\Floreria\\Floreria\\Floreria.csproj",
         "projectName": "Floreria",
-        "projectPath": "C:\\Users\\lojeda\\Documents\\GitHub\\urbeacademy\\Floreria\\Floreria.csproj",
+        "projectPath": "C:\\Users\\lojeda\\Documents\\GitHub\\Floreria\\Floreria\\Floreria.csproj",
         "packagesPath": "C:\\Users\\lojeda\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lojeda\\Documents\\GitHub\\urbeacademy\\Floreria\\obj\\",
+        "outputPath": "C:\\Users\\lojeda\\Documents\\GitHub\\Floreria\\Floreria\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
